@@ -20,7 +20,7 @@ player="./src/robotaFC_player"
 coach="./src/robotaFC_coach"
 
 config="./src/player.conf"
-config_dir="./src/formations"
+config_dir="./src/formations-dt"
 coach_config="./src/coach.conf"
 
 opt="--player-config ${config} --config_dir ${config_dir}"
